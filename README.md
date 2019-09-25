@@ -33,5 +33,15 @@ python main2.py
 
 This will start the training process.
 
+### Accuracy
+#### Training
+![Training](results/training.png)
+#### Validation
+![Validation](results/validation.png)
+
+### Tensorboard Graph Visualization
+![Tensorboard](results/png.png)
+
+
 
 
