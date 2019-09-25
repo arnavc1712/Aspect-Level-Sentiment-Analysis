@@ -35,9 +35,9 @@ This will start the training process.
 
 ### Accuracy
 #### Training
-![Training](results/training.png)
+![Training](results/validation.png)
 #### Validation
-![Validation](results/validation.png)
+![Validation](results/training.png)
 
 ### Tensorboard Graph Visualization
 ![Tensorboard](results/png.png)
