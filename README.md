@@ -28,7 +28,7 @@ Download the Gloves pretrained embeddings and store it in the `/data` folder fro
 ### Run
 
 ```bash
-python main2.py
+python main.py
 ```  
 
 This will start the training process.
