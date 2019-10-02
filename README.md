@@ -33,7 +33,7 @@ python main.py
 
 This will start the training process.
 
-### Accuracy
+### Training and Validation Loss
 #### Training
 ![Training](results/validation.png)
 #### Validation
